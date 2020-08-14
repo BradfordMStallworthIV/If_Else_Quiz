@@ -1,4 +1,4 @@
-#By BlxckPython
+#By Bradford Stallworth
 
 print('Hello, welcome to Brad trivia!')
 
